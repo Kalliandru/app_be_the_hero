@@ -1,0 +1,37 @@
+/*
+*Tipos de parâmetros:
+*
+* Query Params: Parametros nomeados enviados na rota após "?" (Filtros, Paginação)
+* Route Params: Parâmetros utilizados para identificar um unico recurso. (ex: '/users/:id');
+* Request Body: Corpo da Requisição, utilizado pra criar ou alterar usuários.
+*/
+
+/*
+* Bancos de Dados:
+* SQL: MySQL, SQLite, PostgreeSQL, Oracle, Microsoft SQL Server
+* NoSQL: MongoDB, COuchDB, etc
+*/
+
+
+/*
+* Driver: Select * from users
+* Query Builder: table('users').select(*).where()
+*/
+
+
+
+Entidades da aplicação:
+ONG
+Cas
+
+Funcionalidades:
+Login (ong)
+Cadastrar (ong)
+Logout (ong)
+Cadastrar novo caso(ong)
+Deletar Casos (ong)
+Listar os Casos especificos de uma ong
+Listagem de todos os Casos
+Entrar em contato com a ONG
+
+
